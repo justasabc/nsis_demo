@@ -1,0 +1,2 @@
+cmd
+>makensis kzl.nsi
